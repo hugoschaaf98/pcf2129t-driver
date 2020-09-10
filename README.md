@@ -10,5 +10,5 @@ There is still a lot of work to do to benefit from the full functionnalities of 
 are already implemented.
 
 If you want to contribute to this little project, I've put everything in the comments to let you know what are the todo's and 
-eventually in some cases how it would be great to do it :)
+even in some cases how it would be great to do it :)
 
